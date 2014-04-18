@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import "bootstrap";
 
 html {
@@ -26,4 +27,31 @@ body {  
 >>>>>>> origin/master
 =======
 >>>>>>> parent of 381a10d... Ga
+=======
+@import "bootstrap";
+
+html {
+	overflow-y: scroll;
+}
+body {  
+    padding-top: 60px;
+    }
+    section {  
+    overflow: auto;
+    }
+    textarea {  
+    resize: vertical;
+    }
+    .center {  
+    text-align: center;
+    }
+    .center h1 {  
+    margin-bottom: 10px;
+<<<<<<< HEAD
+=======
+    -moz-box-sizing: border-box;  
+    -webkit-box-sizing: border-box;  
+    box-sizing: border-box;
+>>>>>>> origin/master
+>>>>>>> 24db3c96f534a808bec6c9f05ffd960d4417f229
     }
